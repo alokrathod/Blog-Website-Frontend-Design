@@ -10,16 +10,21 @@ This repository contains the frontend of a blog website designed entirely using 
 - **Responsive Design**: Built with Bootstrap to ensure compatibility across devices.
 - **Assets Folder**: Contains images required for the website.
 
+## Project Structure
+```plaintext
+Blog-Website-Frontend-Design/
+├── assets/              # images
+├── index.html           # Homepage of the blog
+├── about.html           # About page
+├── contact.html         # Contact page
+└── README.md            # Project documentation
+```
 
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/alokrathod/Blog-Website-Frontend-Design
+   cd Blog-Website-Frontend-Design
 
-
-2. Navigate to the project folder:
-    ```bash
-    cd your-repository/new
-
-3. Open `index.html` in your web browser to view the homepage.
+2. Open `index.html` in your web browser to view the homepage.
