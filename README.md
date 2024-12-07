@@ -22,11 +22,4 @@ This repository contains the frontend of a blog website designed entirely using 
     ```bash
     cd your-repository/new
 
-3. Explore the project structur:
-/new
-├── index.html        # Homepage of the blog
-├── about.html        # About page
-├── contact.html      # Contact page
-└── assets/           # Folder for images
-
-Open `index.html` in your web browser to view the homepage.
+3. Open `index.html` in your web browser to view the homepage.
